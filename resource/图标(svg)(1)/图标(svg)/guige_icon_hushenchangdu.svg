@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>guige_icon_hushenchangdu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="guige_icon_hushenchangdu" transform="translate(20.000000, 20.000000) scale(-1, 1) rotate(-90.000000) translate(-20.000000, -20.000000) " fill="#7F7F7F">
+            <rect id="Rectangle-3" x="0" y="0" width="12" height="2" rx="1"></rect>
+            <g id="Group-6" transform="translate(4.000000, 6.000000)">
+                <rect id="Rectangle-3-Copy" x="0" y="0" width="6" height="2" rx="1"></rect>
+                <rect id="Rectangle-3-Copy-2" x="0" y="6" width="6" height="2" rx="1"></rect>
+                <rect id="Rectangle-3-Copy-3" x="0" y="12" width="6" height="2" rx="1"></rect>
+                <rect id="Rectangle-3-Copy-4" x="0" y="18" width="6" height="2" rx="1"></rect>
+            </g>
+            <rect id="Rectangle-4" x="4" y="1" width="2" height="38"></rect>
+            <rect id="Rectangle-4-Copy" transform="translate(20.000000, 39.000000) rotate(-90.000000) translate(-20.000000, -39.000000) " x="19" y="19" width="2" height="40" rx="1"></rect>
+            <g id="Group-7" transform="translate(18.000000, 2.000000)">
+                <rect id="Rectangle-3-Copy-5" x="4" y="4" width="8" height="2" rx="1"></rect>
+                <path d="M0.772111863,5.64342655 C0.345686256,5.28807188 0.339777231,4.71685231 0.772111863,4.35657345 L5.22788814,0.643426552 C5.65431374,0.28807188 6,0.455664396 6,0.995397568 L6,9.00460243 C6,9.55434533 5.66022277,9.71685231 5.22788814,9.35657345 L0.772111863,5.64342655 Z" id="Triangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

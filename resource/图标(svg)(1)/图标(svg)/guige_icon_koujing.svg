@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>guige_icon_koujing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="guige_icon_koujing">
+            <circle id="Oval-18" stroke="#7F7F7F" stroke-width="2" cx="20" cy="20" r="19"></circle>
+            <g id="Group-17" transform="translate(3.000000, 15.000000)" fill="#7F7F7F">
+                <path d="M0.772111863,5.64342655 C0.345686256,5.28807188 0.339777231,4.71685231 0.772111863,4.35657345 L5.22788814,0.643426552 C5.65431374,0.28807188 6,0.455664396 6,0.995397568 L6,9.00460243 C6,9.55434533 5.66022277,9.71685231 5.22788814,9.35657345 L0.772111863,5.64342655 Z" id="Triangle"></path>
+                <path d="M28.3220389,5.64342655 C27.8956133,5.28807188 27.8897043,4.71685231 28.3220389,4.35657345 L32.7778152,0.643426552 C33.2042408,0.28807188 33.549927,0.455664396 33.549927,0.995397568 L33.549927,9.00460243 C33.549927,9.55434533 33.2101498,9.71685231 32.7778152,9.35657345 L28.3220389,5.64342655 Z" id="Triangle" transform="translate(30.774964, 5.002334) scale(-1, 1) translate(-30.774964, -5.002334) "></path>
+            </g>
+            <path d="M9,19 L11.9906311,19 C12.5480902,19 13,19.4438648 13,20 L13,20 C13,20.5522847 12.5566468,21 11.9906311,21 L9,21 L9,19 Z" id="Rectangle-26" fill="#7F7F7F"></path>
+            <rect id="Rectangle-26-Copy" fill="#7F7F7F" x="15" y="19" width="4" height="2" rx="1"></rect>
+            <rect id="Rectangle-26-Copy-2" fill="#7F7F7F" x="21" y="19" width="4" height="2" rx="1"></rect>
+            <path d="M27,20 C27,19.4477153 27.4433532,19 28.0093689,19 L31,19 L31,21 L28.0093689,21 C27.4519098,21 27,20.5561352 27,20 L27,20 Z" id="Rectangle-26-Copy-3" fill="#7F7F7F"></path>
+        </g>
+    </g>
+</svg>

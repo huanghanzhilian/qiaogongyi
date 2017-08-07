@@ -1,0 +1,23 @@
+
+/**
+* 
+* @return
+*/
+@Path("{path}")
+public ActionResult {functionName}() {
+	HttpServletRequest request = beat.getRequest();
+	Map <String,String> paramMap = BeanUtils.formatParameterMap(request.getParameterMap());
+	logger.info("Request Begin relativeUrl="+beat.getRelativeUrl()+" param="+new Gson().toJson(paramMap));
+	ResultInfoWeb resultWeb = new ResultInfoWeb(true);
+	
+	String param = CommonFunction.transToStr(request.getParameter("param"), "");
+	BizServiceUtil biz = (BizServiceUtil) BaseThriftServiceFactory
+			.getThriftServiceUtil("BizServiceUtil");
+	try{
+		
+	} catch (Exception e) {
+		logger.error(beat.getRelativeUrl() + " --error" , e);
+		resultWeb.setSuccess(false);
+	}
+	return new JsonBeanResult(resultWeb,biz);
+}

@@ -1,0 +1,86 @@
+{
+    "seller": [
+        {
+            "tagId": 1,
+            "tagName": "其他2s",
+            "subTagList": [
+                {
+                    "tagId": "10",
+                    "tagName": "功能",
+                    "subTagList": [
+                        {
+                            "tagId": "100",
+                            "tagName": "送师长"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tagId": "2",
+            "tagName": "壶型",
+            "subTagList": [
+                {
+                    "tagId": "20",
+                    "tagName": "西施"
+                }
+            ]
+        }
+    ],
+    "goods": [
+        {
+            "tagId": 1,
+            "tagName": "其他",
+            "subTagList": [
+                {
+                    "tagId": "10",
+                    "tagName": "功能",
+                    "subTagList": [
+                        {
+                            "tagId": "100",
+                            "tagName": "送师长"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tagId": "2",
+            "tagName": "壶型",
+            "subTagList": [
+                {
+                    "tagId": "20",
+                    "tagName": "西施"
+                }
+            ]
+        }
+    ],
+    "ratings": [
+        {
+            "tagId": 1,
+            "tagName": "其他",
+            "subTagList": [
+                {
+                    "tagId": "10",
+                    "tagName": "功能",
+                    "subTagList": [
+                        {
+                            "tagId": "100",
+                            "tagName": "送师长"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tagId": "2",
+            "tagName": "壶型",
+            "subTagList": [
+                {
+                    "tagId": "20",
+                    "tagName": "西施"
+                }
+            ]
+        }
+    ]
+}

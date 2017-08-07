@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="40px" viewBox="0 0 36 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>guige_icon_huoyun</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="guige_icon_huoyun" fill="#7F7F7F">
+            <path d="M18,38 C26.836556,38 34,30.836556 34,22 C34,13.163444 26.836556,6 18,6 C9.163444,6 2,13.163444 2,22 C2,30.836556 9.163444,38 18,38 Z M18,40 C8.0588745,40 0,31.9411255 0,22 C0,12.0588745 8.0588745,4 18,4 C27.9411255,4 36,12.0588745 36,22 C36,31.9411255 27.9411255,40 18,40 Z" id="Oval-4" fill-rule="nonzero"></path>
+            <rect id="Rectangle-17" x="11" y="0" width="14" height="2" rx="1"></rect>
+            <rect id="Rectangle-17-Copy" x="17" y="21" width="10" height="2" rx="1"></rect>
+            <rect id="Rectangle-17-Copy-2" transform="translate(18.000000, 16.500000) rotate(-90.000000) translate(-18.000000, -16.500000) " x="11.5" y="15.5" width="13" height="2" rx="1"></rect>
+        </g>
+    </g>
+</svg>

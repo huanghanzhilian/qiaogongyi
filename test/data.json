@@ -1,0 +1,48 @@
+﻿{
+    "object": [
+        {
+            "tagId": 1,
+            "tagName": "更多",
+            "subTagList": [
+                {
+                    "tagId": "10",
+                    "tagName": "功能",
+                    "subTagList": [
+                        {
+                            "tagId": "100",
+                            "tagName": "送师长"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tagId": "2",
+            "tagName": "壶型",
+            "subTagList": [
+                {
+                    "tagId": "20",
+                    "tagName": "西施"
+                }
+            ]
+        },{
+            "tagId": "2",
+            "tagName": "壶型",
+            "subTagList": [
+                {
+                    "tagId": "20",
+                    "tagName": "西施2"
+                }
+            ]
+        },{
+            "tagId": "2",
+            "tagName": "壶型",
+            "subTagList": [
+                {
+                    "tagId": "20",
+                    "tagName": "西施3"
+                }
+            ]
+        }
+    ]
+}

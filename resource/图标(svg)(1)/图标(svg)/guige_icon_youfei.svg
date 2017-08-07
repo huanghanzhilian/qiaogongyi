@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>guige_icon_youfei</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="guige_icon_youfei">
+            <ellipse id="Oval-23" stroke="#7F7F7F" stroke-width="2" cx="20" cy="20" rx="19" ry="19"></ellipse>
+            <g id="Group-29" transform="translate(12.000000, 3.000000)" fill="#7F7F7F">
+                <g id="Group-28" transform="translate(8.000000, 8.000000) rotate(-315.000000) translate(-8.000000, -8.000000) translate(3.000000, 3.000000)">
+                    <rect id="Rectangle-30" x="1.20792265e-13" y="8" width="10" height="2" rx="1"></rect>
+                    <rect id="Rectangle-30-Copy" transform="translate(9.000000, 5.000000) rotate(-90.000000) translate(-9.000000, -5.000000) " x="4" y="4" width="10" height="2" rx="1"></rect>
+                </g>
+                <rect id="Rectangle-31" x="0" y="12" width="16" height="2" rx="1"></rect>
+                <rect id="Rectangle-31-Copy" x="0" y="18" width="16" height="2" rx="1"></rect>
+                <rect id="Rectangle-31-Copy-2" transform="translate(8.000000, 20.000000) rotate(-90.000000) translate(-8.000000, -20.000000) " x="0" y="19" width="16" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
